@@ -8,6 +8,6 @@
         Acerca de
     </h2>
     <p>
-        Coloque contenido aquí.
+        No quiero nada!!.
     </p>
 </asp:Content>
